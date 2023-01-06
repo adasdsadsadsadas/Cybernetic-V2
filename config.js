@@ -8,7 +8,7 @@ const config = {
   name: "ProBot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1060689513057357824&permissions=8&scope=bot%20applications.commands",
   //BotInvite Link
   Features: [
     {
@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  serverCount: 1, //-  - Your
+  memberCount: 7, //--   - Bot
+  executedCommand: 0, //--  - Stats
+  availableCommand: 0, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  githubLink: "",
+  twitterLink: "",
+  mediumLink: "",
+  facebookLink: "",
+  discordLink: " https://discord.gg/99GtyNV78m",
+  youtubeLink: "",
 };
 
 export default config;
