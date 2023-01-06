@@ -5,7 +5,7 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Cybernetic. V2",
   //BotName
   inviteLink:
     "https://discord.com/api/oauth2/authorize?client_id=1060689513057357824&permissions=8&scope=bot%20applications.commands",
